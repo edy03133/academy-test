@@ -1,0 +1,8 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="43px" height="43px">
+<path fill-rule="evenodd"  stroke-width="1px" stroke="rgb(229, 229, 229)" fill="rgb(255, 255, 255)"
+ d="M21.500,3.500 C31.441,3.500 39.500,11.559 39.500,21.500 C39.500,31.441 31.441,39.500 21.500,39.500 C11.559,39.500 3.500,31.441 3.500,21.500 C3.500,11.559 11.559,3.500 21.500,3.500 Z"/>
+<text kerning="auto" font-family="Kozuka Gothic Pr6N" fill="rgb(0, 0, 0)" font-size="18px" x="16.5px" y="27.5px"><tspan font-size="18px" font-family="Helvetica Neue" font-weight="bold" fill="#666666">&#52;</tspan></text>
+</svg>

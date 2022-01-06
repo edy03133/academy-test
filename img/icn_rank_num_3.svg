@@ -1,0 +1,8 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="36px" height="36px">
+<path fill-rule="evenodd"  fill="rgb(206, 97, 44)"
+ d="M18.000,-0.000 C27.941,-0.000 36.000,8.059 36.000,18.000 C36.000,27.941 27.941,36.000 18.000,36.000 C8.059,36.000 -0.000,27.941 -0.000,18.000 C-0.000,8.059 8.059,-0.000 18.000,-0.000 Z"/>
+<text kerning="auto" font-family="Kozuka Gothic Pr6N" fill="rgb(0, 0, 0)" font-size="18px" x="13px" y="25px"><tspan font-size="18px" font-family="Helvetica Neue" font-weight="bold" fill="#FFFFFF">&#51;</tspan></text>
+</svg>
